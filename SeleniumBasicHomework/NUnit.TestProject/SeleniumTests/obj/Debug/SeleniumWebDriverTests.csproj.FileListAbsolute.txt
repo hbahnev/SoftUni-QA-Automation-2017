@@ -1,0 +1,11 @@
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\SeleniumTests.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\SeleniumTests.pdb
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\nunit.framework.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\WebDriver.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\WebDriver.Support.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\nunit.framework.xml
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\WebDriver.xml
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\bin\Debug\WebDriver.Support.xml
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\obj\Debug\SeleniumWebDriverTests.csprojResolveAssemblyReference.cache
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\obj\Debug\SeleniumTests.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\SeleniumTests\obj\Debug\SeleniumTests.pdb

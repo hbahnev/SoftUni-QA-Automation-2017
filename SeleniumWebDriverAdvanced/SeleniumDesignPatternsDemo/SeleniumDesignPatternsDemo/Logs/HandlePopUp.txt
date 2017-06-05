@@ -1,0 +1,1 @@
+SeleniumDesignPatternsDemo.ToolsQATests.HandlePopUp ... 1

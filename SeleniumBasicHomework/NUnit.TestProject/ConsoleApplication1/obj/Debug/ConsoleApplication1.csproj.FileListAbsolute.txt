@@ -1,0 +1,8 @@
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\bin\Debug\nunit.framework.dll
+D:\QA Automation\Homeworks\SeleniumBasicHomework\NUnit.TestProject\ConsoleApplication1\bin\Debug\nunit.framework.xml
