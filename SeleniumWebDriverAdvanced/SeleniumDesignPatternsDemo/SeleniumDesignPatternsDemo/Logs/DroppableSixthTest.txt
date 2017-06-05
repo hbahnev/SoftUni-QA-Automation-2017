@@ -1,1 +1,0 @@
-SeleniumDesignPatternsDemo.ToolsQATests.DroppableSixthTest ... 1
